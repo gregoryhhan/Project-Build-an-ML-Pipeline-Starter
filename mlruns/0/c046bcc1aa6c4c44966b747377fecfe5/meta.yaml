@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c046bcc1aa6c4c44966b747377fecfe5/artifacts
+end_time: 1708722793643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c046bcc1aa6c4c44966b747377fecfe5
+run_name: spiffy-chimp-99
+run_uuid: c046bcc1aa6c4c44966b747377fecfe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708722752386
+status: 3
+tags: []
+user_id: gregoryhhan

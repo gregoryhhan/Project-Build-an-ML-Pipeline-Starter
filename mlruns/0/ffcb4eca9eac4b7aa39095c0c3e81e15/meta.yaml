@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ffcb4eca9eac4b7aa39095c0c3e81e15/artifacts
+end_time: 1708721792075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffcb4eca9eac4b7aa39095c0c3e81e15
+run_name: serious-snake-311
+run_uuid: ffcb4eca9eac4b7aa39095c0c3e81e15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708721678197
+status: 3
+tags: []
+user_id: gregoryhhan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c6f8c8bbf9e040ae98106926cb79b381/artifacts
+end_time: 1708725875128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6f8c8bbf9e040ae98106926cb79b381
+run_name: omniscient-pug-672
+run_uuid: c6f8c8bbf9e040ae98106926cb79b381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708725835412
+status: 3
+tags: []
+user_id: gregoryhhan

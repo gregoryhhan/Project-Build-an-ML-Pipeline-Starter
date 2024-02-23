@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3faa135727e449e2b9b81c3be75b0fa7/artifacts
+end_time: 1708724209885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3faa135727e449e2b9b81c3be75b0fa7
+run_name: incongruous-colt-867
+run_uuid: 3faa135727e449e2b9b81c3be75b0fa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708724194469
+status: 4
+tags: []
+user_id: gregoryhhan

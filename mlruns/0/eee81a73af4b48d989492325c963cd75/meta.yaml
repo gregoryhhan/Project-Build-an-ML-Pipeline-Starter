@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eee81a73af4b48d989492325c963cd75/artifacts
+end_time: 1708724210031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eee81a73af4b48d989492325c963cd75
+run_name: redolent-ray-621
+run_uuid: eee81a73af4b48d989492325c963cd75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708724192543
+status: 4
+tags: []
+user_id: gregoryhhan

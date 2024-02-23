@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/98d10644a79845a9871cc3e1249930dd/artifacts
+end_time: 1708727159530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98d10644a79845a9871cc3e1249930dd
+run_name: melodic-goat-88
+run_uuid: 98d10644a79845a9871cc3e1249930dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708727092456
+status: 3
+tags: []
+user_id: gregoryhhan

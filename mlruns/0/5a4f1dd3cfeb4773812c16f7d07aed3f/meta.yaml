@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5a4f1dd3cfeb4773812c16f7d07aed3f/artifacts
+end_time: 1708725835311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a4f1dd3cfeb4773812c16f7d07aed3f
+run_name: polite-newt-979
+run_uuid: 5a4f1dd3cfeb4773812c16f7d07aed3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708725810198
+status: 3
+tags: []
+user_id: gregoryhhan

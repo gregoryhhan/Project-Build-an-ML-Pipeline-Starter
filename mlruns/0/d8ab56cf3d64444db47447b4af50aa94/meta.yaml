@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d8ab56cf3d64444db47447b4af50aa94/artifacts
+end_time: 1708726908465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8ab56cf3d64444db47447b4af50aa94
+run_name: carefree-croc-340
+run_uuid: d8ab56cf3d64444db47447b4af50aa94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708726849250
+status: 3
+tags: []
+user_id: gregoryhhan

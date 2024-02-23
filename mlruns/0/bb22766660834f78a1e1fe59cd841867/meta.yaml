@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bb22766660834f78a1e1fe59cd841867/artifacts
+end_time: 1708726849145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb22766660834f78a1e1fe59cd841867
+run_name: vaunted-mink-769
+run_uuid: bb22766660834f78a1e1fe59cd841867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708726814689
+status: 3
+tags: []
+user_id: gregoryhhan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8ec2632784cd4494a96e041c190d5b23/artifacts
+end_time: 1708723347476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ec2632784cd4494a96e041c190d5b23
+run_name: welcoming-swan-501
+run_uuid: 8ec2632784cd4494a96e041c190d5b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708723272365
+status: 3
+tags: []
+user_id: gregoryhhan

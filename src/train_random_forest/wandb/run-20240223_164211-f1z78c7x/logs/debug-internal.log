@@ -1,0 +1,65 @@
+2024-02-23 16:42:11,891 INFO    StreamThr :6329 [internal.py:wandb_internal():87] W&B internal server running at pid: 6329, started at: 2024-02-23 16:42:11.891273
+2024-02-23 16:42:11,893 DEBUG   HandlerThread:6329 [handler.py:handle_request():144] handle_request: status
+2024-02-23 16:42:11,895 INFO    WriterThread:6329 [datastore.py:open_for_write():85] open: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/run-f1z78c7x.wandb
+2024-02-23 16:42:11,896 DEBUG   SenderThread:6329 [sender.py:send():334] send: header
+2024-02-23 16:42:11,897 DEBUG   SenderThread:6329 [sender.py:send():334] send: run
+2024-02-23 16:42:12,190 INFO    SenderThread:6329 [dir_watcher.py:__init__():216] watching files in: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/files
+2024-02-23 16:42:12,190 INFO    SenderThread:6329 [sender.py:_start_run_threads():1065] run started: f1z78c7x with start time 1708724531.89094
+2024-02-23 16:42:12,190 DEBUG   SenderThread:6329 [sender.py:send_request():361] send_request: summary_record
+2024-02-23 16:42:12,190 INFO    SenderThread:6329 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-23 16:42:12,191 DEBUG   HandlerThread:6329 [handler.py:handle_request():144] handle_request: check_version
+2024-02-23 16:42:12,191 DEBUG   SenderThread:6329 [sender.py:send_request():361] send_request: check_version
+2024-02-23 16:42:12,281 DEBUG   HandlerThread:6329 [handler.py:handle_request():144] handle_request: run_start
+2024-02-23 16:42:12,282 DEBUG   HandlerThread:6329 [system_info.py:__init__():31] System info init
+2024-02-23 16:42:12,282 DEBUG   HandlerThread:6329 [system_info.py:__init__():46] System info init done
+2024-02-23 16:42:12,282 INFO    HandlerThread:6329 [system_monitor.py:start():151] Starting system monitor
+2024-02-23 16:42:12,282 INFO    SystemMonitor:6329 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-02-23 16:42:12,282 INFO    HandlerThread:6329 [system_monitor.py:probe():172] Collecting system info
+2024-02-23 16:42:12,283 INFO    SystemMonitor:6329 [interfaces.py:start():168] Started cpu
+2024-02-23 16:42:12,283 INFO    SystemMonitor:6329 [interfaces.py:start():168] Started disk
+2024-02-23 16:42:12,285 INFO    SystemMonitor:6329 [interfaces.py:start():168] Started memory
+2024-02-23 16:42:12,287 INFO    SystemMonitor:6329 [interfaces.py:start():168] Started network
+2024-02-23 16:42:12,289 DEBUG   HandlerThread:6329 [system_info.py:probe():195] Probing system
+2024-02-23 16:42:12,315 DEBUG   HandlerThread:6329 [system_info.py:_probe_git():180] Probing git
+2024-02-23 16:42:12,320 DEBUG   HandlerThread:6329 [system_info.py:_probe_git():188] Probing git done
+2024-02-23 16:42:12,320 DEBUG   HandlerThread:6329 [system_info.py:probe():241] Probing system done
+2024-02-23 16:42:12,320 DEBUG   HandlerThread:6329 [system_monitor.py:probe():181] {'os': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.31', 'python': '3.9.18', 'heartbeatAt': '2024-02-23T21:42:12.289217', 'startedAt': '2024-02-23T21:42:11.886781', 'docker': None, 'cuda': None, 'args': ('--trainval_artifact', 'trainval_data.csv:latest', '--val_size', '0.2', '--random_seed', '42', '--stratify_by', 'neighbourhood_group', '--rf_config', '/home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/multirun/2024-02-23/16-42-09/0/rf_config.json', '--max_tfidf_features', '5', '--output_artifact', 'random_forest_export'), 'state': 'running', 'program': '/home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py', 'codePath': 'src/train_random_forest/run.py', 'git': {'remote': 'https://github.com/gregoryhhan/Project-Build-an-ML-Pipeline-Starter.git', 'commit': '077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98'}, 'email': None, 'root': '/home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter', 'host': 'DESKTOP-6TE9335', 'username': 'gregoryhhan', 'executable': '/home/gregoryhhan/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/bin/python', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 3399.998, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}, {'current': 3399.998, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 1006.853931427002, 'used': 16.13506317138672}, 'memory': {'total': 7.721012115478516}}
+2024-02-23 16:42:12,320 INFO    HandlerThread:6329 [system_monitor.py:probe():182] Finished collecting system info
+2024-02-23 16:42:12,320 INFO    HandlerThread:6329 [system_monitor.py:probe():185] Publishing system info
+2024-02-23 16:42:12,320 DEBUG   HandlerThread:6329 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-02-23 16:42:12,321 DEBUG   HandlerThread:6329 [system_info.py:_save_pip():67] Saving pip packages done
+2024-02-23 16:42:12,321 DEBUG   HandlerThread:6329 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-02-23 16:42:13,191 INFO    Thread-13 :6329 [dir_watcher.py:_on_file_created():275] file/dir created: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/files/wandb-summary.json
+2024-02-23 16:42:13,191 INFO    Thread-13 :6329 [dir_watcher.py:_on_file_created():275] file/dir created: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/files/requirements.txt
+2024-02-23 16:42:13,191 INFO    Thread-13 :6329 [dir_watcher.py:_on_file_created():275] file/dir created: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/files/conda-environment.yaml
+2024-02-23 16:42:13,500 DEBUG   HandlerThread:6329 [system_info.py:_save_conda():86] Saving conda packages done
+2024-02-23 16:42:13,500 INFO    HandlerThread:6329 [system_monitor.py:probe():187] Finished publishing system info
+2024-02-23 16:42:13,502 DEBUG   SenderThread:6329 [sender.py:send():334] send: files
+2024-02-23 16:42:13,502 INFO    SenderThread:6329 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-02-23 16:42:13,506 DEBUG   SenderThread:6329 [sender.py:send():334] send: telemetry
+2024-02-23 16:42:13,507 DEBUG   SenderThread:6329 [sender.py:send():334] send: config
+2024-02-23 16:42:13,509 DEBUG   SenderThread:6329 [sender.py:send():334] send: config
+2024-02-23 16:42:13,510 DEBUG   HandlerThread:6329 [handler.py:handle_request():144] handle_request: stop_status
+2024-02-23 16:42:13,510 DEBUG   SenderThread:6329 [sender.py:send_request():361] send_request: stop_status
+2024-02-23 16:42:13,881 DEBUG   SenderThread:6329 [sender.py:send():334] send: use_artifact
+2024-02-23 16:42:13,924 INFO    Thread-16 :6329 [upload_job.py:push():143] Uploaded file /tmp/tmpa5mc2rfbwandb/3wpq0385-wandb-metadata.json
+2024-02-23 16:42:14,190 INFO    Thread-13 :6329 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/files/conda-environment.yaml
+2024-02-23 16:42:14,190 INFO    Thread-13 :6329 [dir_watcher.py:_on_file_created():275] file/dir created: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/files/output.log
+2024-02-23 16:42:14,190 INFO    Thread-13 :6329 [dir_watcher.py:_on_file_created():275] file/dir created: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/files/wandb-metadata.json
+2024-02-23 16:42:16,191 INFO    Thread-13 :6329 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/files/output.log
+2024-02-23 16:42:17,164 DEBUG   HandlerThread:6329 [handler.py:handle_request():144] handle_request: status_report
+2024-02-23 16:42:22,164 DEBUG   HandlerThread:6329 [handler.py:handle_request():144] handle_request: status_report
+2024-02-23 16:42:24,193 INFO    Thread-13 :6329 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/files/output.log
+2024-02-23 16:42:24,833 DEBUG   HandlerThread:6329 [handler.py:handle_request():144] handle_request: log_artifact
+2024-02-23 16:42:24,833 DEBUG   SenderThread:6329 [sender.py:send_request():361] send_request: log_artifact
+2024-02-23 16:42:26,076 INFO    Thread-19 :6329 [upload_job.py:push():101] Uploaded file /home/gregoryhhan/.local/share/wandb/artifacts/staging/tmpv_4fvty7
+2024-02-23 16:42:26,078 INFO    Thread-23 :6329 [upload_job.py:push():101] Uploaded file /home/gregoryhhan/.local/share/wandb/artifacts/staging/tmpm8joevie
+2024-02-23 16:42:26,099 INFO    Thread-18 :6329 [upload_job.py:push():101] Uploaded file /home/gregoryhhan/.local/share/wandb/artifacts/staging/tmpy5kx17gk
+2024-02-23 16:42:26,107 INFO    Thread-20 :6329 [upload_job.py:push():101] Uploaded file /home/gregoryhhan/.local/share/wandb/artifacts/staging/tmp36tv8nlm
+2024-02-23 16:42:26,114 INFO    Thread-22 :6329 [upload_job.py:push():101] Uploaded file /home/gregoryhhan/.local/share/wandb/artifacts/staging/tmp751r1g27
+2024-02-23 16:42:26,193 INFO    Thread-13 :6329 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240223_164211-f1z78c7x/files/output.log
+2024-02-23 16:42:26,291 ERROR   cpu       :6329 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=6299)
+2024-02-23 16:42:26,291 ERROR   cpu       :6329 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=6299)
+2024-02-23 16:42:26,291 ERROR   memory    :6329 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=6299)
+2024-02-23 16:42:26,291 ERROR   memory    :6329 [interfaces.py:monitor():129] Failed to sample metric: process no longer exists (pid=6299)
+2024-02-23 16:42:27,283 INFO    MainThread:6329 [internal.py:handle_exit():77] Internal process exited

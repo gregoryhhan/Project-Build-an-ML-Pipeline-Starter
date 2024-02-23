@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cbdce79d2c604188a68fa6a3384b081b/artifacts
+end_time: 1708725264188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbdce79d2c604188a68fa6a3384b081b
+run_name: powerful-turtle-140
+run_uuid: cbdce79d2c604188a68fa6a3384b081b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708725246857
+status: 4
+tags: []
+user_id: gregoryhhan

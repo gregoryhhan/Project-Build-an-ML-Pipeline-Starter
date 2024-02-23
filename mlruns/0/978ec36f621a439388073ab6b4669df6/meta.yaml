@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/978ec36f621a439388073ab6b4669df6/artifacts
+end_time: 1708725933796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 978ec36f621a439388073ab6b4669df6
+run_name: righteous-newt-819
+run_uuid: 978ec36f621a439388073ab6b4669df6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708725875231
+status: 3
+tags: []
+user_id: gregoryhhan

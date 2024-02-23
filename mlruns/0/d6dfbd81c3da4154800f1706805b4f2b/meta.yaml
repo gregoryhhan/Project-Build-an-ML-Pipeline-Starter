@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d6dfbd81c3da4154800f1706805b4f2b/artifacts
+end_time: 1708726035833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6dfbd81c3da4154800f1706805b4f2b
+run_name: gregarious-bird-252
+run_uuid: d6dfbd81c3da4154800f1706805b4f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708725933898
+status: 3
+tags: []
+user_id: gregoryhhan

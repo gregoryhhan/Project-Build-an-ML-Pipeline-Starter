@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/54bb886bbd6f424c9847737debe19fa3/artifacts
+end_time: 1708724545038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54bb886bbd6f424c9847737debe19fa3
+run_name: intelligent-whale-23
+run_uuid: 54bb886bbd6f424c9847737debe19fa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708724527449
+status: 4
+tags: []
+user_id: gregoryhhan

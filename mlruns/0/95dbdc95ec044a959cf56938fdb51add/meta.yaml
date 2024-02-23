@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/95dbdc95ec044a959cf56938fdb51add/artifacts
+end_time: 1708725264043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95dbdc95ec044a959cf56938fdb51add
+run_name: chill-kite-67
+run_uuid: 95dbdc95ec044a959cf56938fdb51add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708725248797
+status: 4
+tags: []
+user_id: gregoryhhan

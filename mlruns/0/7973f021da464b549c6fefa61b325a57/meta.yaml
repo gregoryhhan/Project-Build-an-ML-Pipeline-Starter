@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7973f021da464b549c6fefa61b325a57/artifacts
+end_time: 1708723733738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7973f021da464b549c6fefa61b325a57
+run_name: fearless-zebra-922
+run_uuid: 7973f021da464b549c6fefa61b325a57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708723656679
+status: 4
+tags: []
+user_id: gregoryhhan

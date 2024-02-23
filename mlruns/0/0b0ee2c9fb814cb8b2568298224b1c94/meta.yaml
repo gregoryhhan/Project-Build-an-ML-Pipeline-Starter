@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0b0ee2c9fb814cb8b2568298224b1c94/artifacts
+end_time: 1708724006796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b0ee2c9fb814cb8b2568298224b1c94
+run_name: crawling-frog-209
+run_uuid: 0b0ee2c9fb814cb8b2568298224b1c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708723988357
+status: 4
+tags: []
+user_id: gregoryhhan

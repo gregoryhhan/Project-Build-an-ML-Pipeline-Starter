@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/976813f6861a49119ad583499bc96d4a/artifacts
+end_time: 1708724398289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 976813f6861a49119ad583499bc96d4a
+run_name: enthused-fish-577
+run_uuid: 976813f6861a49119ad583499bc96d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708724382839
+status: 4
+tags: []
+user_id: gregoryhhan

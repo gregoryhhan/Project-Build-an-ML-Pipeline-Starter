@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1a19bc1235ef400090c59691a6f56252/artifacts
+end_time: 1708727159614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a19bc1235ef400090c59691a6f56252
+run_name: sassy-mule-616
+run_uuid: 1a19bc1235ef400090c59691a6f56252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708727089453
+status: 3
+tags: []
+user_id: gregoryhhan

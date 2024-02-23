@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e0d40404ee8f4556bcddc1ed1787d583/artifacts
+end_time: 1708723135090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0d40404ee8f4556bcddc1ed1787d583
+run_name: judicious-donkey-343
+run_uuid: e0d40404ee8f4556bcddc1ed1787d583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708723109258
+status: 3
+tags: []
+user_id: gregoryhhan

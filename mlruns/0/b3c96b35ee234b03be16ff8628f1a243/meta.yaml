@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b3c96b35ee234b03be16ff8628f1a243/artifacts
+end_time: 1708727019300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3c96b35ee234b03be16ff8628f1a243
+run_name: lyrical-duck-117
+run_uuid: b3c96b35ee234b03be16ff8628f1a243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708726908568
+status: 3
+tags: []
+user_id: gregoryhhan

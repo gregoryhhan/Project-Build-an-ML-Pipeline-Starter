@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/86d873aa61794783872f2308fa4c01e5/artifacts
+end_time: 1708725356458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86d873aa61794783872f2308fa4c01e5
+run_name: shivering-slug-596
+run_uuid: 86d873aa61794783872f2308fa4c01e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708725337892
+status: 4
+tags: []
+user_id: gregoryhhan

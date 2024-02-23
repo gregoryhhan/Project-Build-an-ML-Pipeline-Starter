@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b06ecf883ec0490e867f2ee5c4409e21/artifacts
+end_time: 1708724006943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b06ecf883ec0490e867f2ee5c4409e21
+run_name: dashing-sow-695
+run_uuid: b06ecf883ec0490e867f2ee5c4409e21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708723986415
+status: 4
+tags: []
+user_id: gregoryhhan

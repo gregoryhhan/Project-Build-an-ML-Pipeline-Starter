@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d522208999ca48db94b96c6a8499c75c/artifacts
+end_time: 1708724544895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d522208999ca48db94b96c6a8499c75c
+run_name: upset-owl-741
+run_uuid: d522208999ca48db94b96c6a8499c75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708724529395
+status: 4
+tags: []
+user_id: gregoryhhan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1a5642bb35cf4e30859aa8b5f348da4b/artifacts
+end_time: 1708725356313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a5642bb35cf4e30859aa8b5f348da4b
+run_name: exultant-moth-332
+run_uuid: 1a5642bb35cf4e30859aa8b5f348da4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708725339855
+status: 4
+tags: []
+user_id: gregoryhhan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/11fb82341f6c412aa64235c594e1052e/artifacts
+end_time: 1708723135170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11fb82341f6c412aa64235c594e1052e
+run_name: entertaining-mule-30
+run_uuid: 11fb82341f6c412aa64235c594e1052e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708723107608
+status: 3
+tags: []
+user_id: gregoryhhan
