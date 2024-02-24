@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gregoryhhan/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fe227bf5f1144573b01512baa96aa7c9/artifacts
+end_time: 1708796756389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe227bf5f1144573b01512baa96aa7c9
+run_name: skillful-slug-214
+run_uuid: fe227bf5f1144573b01512baa96aa7c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708796754011
+status: 4
+tags: []
+user_id: gregoryhhan
