@@ -6,6 +6,8 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+Link for W&B project: https://wandb.ai/gregoryhhan/nyc_airbnb/overview?workspace=user-gregoryhhan
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
@@ -145,6 +147,7 @@ If you are ok with that list, execute this command to clean them up:
 ```
 
 This will iterate over all the environments created by `mlflow` and remove them.
+
 
 
 ## License
